@@ -16,6 +16,6 @@ async function detectAdBlock() {
 }
 if (detectAdBlock()) {
     alert("Por favor desactiva tu adblock para continuar! ^-^");
-    window.location.href = "https://ads."
+    window.location.href = "https://soluruse.com/"
 }
 
