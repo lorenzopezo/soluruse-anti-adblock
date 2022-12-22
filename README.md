@@ -1,3 +1,2 @@
-# soluruse-anti-adblock
-##Anti adblock hecho para KYMSHAY
-###By Lenchata
+# soluruse-anti-adblockAnti adblock hecho para KYMSHAY
+By Lenchata
